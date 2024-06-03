@@ -1,4 +1,4 @@
-### {{ name }}
+# {{ name }}
 
 > 基于 Uniapp@3 + Vue3 + Vite5 + @lx/ui + UnoCss 的跨端 App.
 

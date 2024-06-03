@@ -1,6 +1,6 @@
-### uniapp-vue3-template
+# uniapp-vue3-template
 
-> 基于 Uniapp@3 + Vue3 + Vite5 + @lx/ui + UnoCss 的跨端快速启动模板.
+基于 Uniapp@3 + Vue3 + Vite5 + @lx/ui + UnoCss 的跨端快速启动模板.
 
 ```bash
 # 全局安装 @vue/cli 和 @vue/cli-init
