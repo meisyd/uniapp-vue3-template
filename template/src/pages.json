@@ -1,0 +1,14 @@
+{
+	"globalStyle": {
+    "navigationStyle": "custom",
+    "navigationBarTitleText": "美上云端",
+    "app-plus": {
+      "bounce": "none"
+    },
+    "pageOrientation": "auto",
+    "rpxCalcMaxDeviceWidth": 580,
+    "rpxCalcBaseDeviceWidth": 375,
+    "rpxCalcIncludeWidth": 750,
+    "enablePullDownRefresh": false
+  }
+}
