@@ -1,7 +1,7 @@
 {
 	"globalStyle": {
     "navigationStyle": "custom",
-    "navigationBarTitleText": "美上云端",
+    "navigationBarTitleText": "{{ name }}",
     "app-plus": {
       "bounce": "none"
     },
