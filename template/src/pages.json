@@ -10,5 +10,12 @@
     "rpxCalcBaseDeviceWidth": 375,
     "rpxCalcIncludeWidth": 750,
     "enablePullDownRefresh": false
+  },
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^uni-(.*)": "@/components/uni-$1/index.vue", // 自动注册 @/components/uni-xxx/index.vue文件
+      "^l-(.*)": "lx-ui/components/l-$1/l-$1.vue" // 自动注册 node_modules/lx-ui 组件
+    }
   }
 }

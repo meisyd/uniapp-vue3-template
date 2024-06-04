@@ -4,17 +4,21 @@
 
 ```bash
 # 启动本地项目
+npm run dev
 npm run dev:h5
-npm run dev:mp-weixin
 ```
 
-## 请求库
+## UI库
+以下为 [easycom](https://uniapp.dcloud.net.cn/collocation/pages.html#easycom) 自动注册组件，可直接使用。
+- lx-ui/components
+-  @/components/uni-xxx/index.vue
+-  @/components/xxx/xxx.vue
 
-待补充
+## 请求封装
+lx-ui/lib/request
 
-## 样式 - UnoCSS
-
-待补充
+## 样式
+lx-ui/lib/css
 
 ## 环境变量 - src/env
 
